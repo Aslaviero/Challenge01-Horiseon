@@ -5,3 +5,5 @@ Challenge 01- Horiseon - Refactoring
 - Made sure all anchor tags were in correct area with the correct corresponding links
 - Added comments on the Index.html file stating what changes were completed 
 - Made the website more accessible. 
+- Link to website: https://aslaviero.github.io/Challenge01-Horiseon/
+- screen shot of website 
